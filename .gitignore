@@ -1,0 +1,7 @@
+# Entorno virtual local (torch CPU, ~1.3 GB)
+.venv/
+
+# Artefactos de Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
